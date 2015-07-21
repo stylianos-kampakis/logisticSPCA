@@ -1,0 +1,11 @@
+Package: logisticSPCA
+Type: Package
+Title: logistic SPCA
+Version: 1.0
+Date: 2015-07-20
+Author: Stylianos Kampakis
+Maintainer: Who to complain to <stylianos.kampakis@gmail.com>
+Description: This package is an extension of the supervised PCA algorithm developed by Bair, Hastie et al. (2006)
+so that supervised PCA can be used with other distributions as well. The primary purpose was to be used
+for logistic regression for the thesis of Stylianos Kampakis (2015), hence the name logisticSPCA.
+License: GPL-3
